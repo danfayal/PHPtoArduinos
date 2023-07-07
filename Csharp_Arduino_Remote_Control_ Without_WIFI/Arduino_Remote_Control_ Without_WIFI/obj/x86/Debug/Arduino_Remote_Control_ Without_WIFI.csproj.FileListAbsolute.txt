@@ -1,0 +1,35 @@
+C:\Users\Fayao-Family\AppData\Local\Temporary Projects\Arduino_Remote_Control_ Without_WIFI\bin\Debug\Arduino_Remote_Control_ Without_WIFI.exe
+C:\Users\Fayao-Family\AppData\Local\Temporary Projects\Arduino_Remote_Control_ Without_WIFI\bin\Debug\Arduino_Remote_Control_ Without_WIFI.pdb
+C:\Users\Fayao-Family\AppData\Local\Temporary Projects\Arduino_Remote_Control_ Without_WIFI\obj\x86\Debug\Arduino_Remote_Control__Without_WIFI.Form1.resources
+C:\Users\Fayao-Family\AppData\Local\Temporary Projects\Arduino_Remote_Control_ Without_WIFI\obj\x86\Debug\Arduino_Remote_Control__Without_WIFI.Properties.Resources.resources
+C:\Users\Fayao-Family\AppData\Local\Temporary Projects\Arduino_Remote_Control_ Without_WIFI\obj\x86\Debug\Arduino_Remote_Control_ Without_WIFI.csproj.GenerateResource.Cache
+C:\Users\Fayao-Family\AppData\Local\Temporary Projects\Arduino_Remote_Control_ Without_WIFI\obj\x86\Debug\Arduino_Remote_Control_ Without_WIFI.exe
+C:\Users\Fayao-Family\AppData\Local\Temporary Projects\Arduino_Remote_Control_ Without_WIFI\obj\x86\Debug\Arduino_Remote_Control_ Without_WIFI.pdb
+C:\Users\Fayao-Family\documents\visual studio 2010\Projects\Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\obj\x86\Debug\Arduino_Remote_Control_ Without_WIFI.exe
+C:\Users\Fayao-Family\documents\visual studio 2010\Projects\Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\obj\x86\Debug\Arduino_Remote_Control_ Without_WIFI.pdb
+C:\Users\Fayao-Family\documents\visual studio 2010\Projects\Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\bin\Debug\Arduino_Remote_Control_ Without_WIFI.exe
+C:\Users\Fayao-Family\documents\visual studio 2010\Projects\Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\bin\Debug\Arduino_Remote_Control_ Without_WIFI.pdb
+C:\Users\Fayao-Family\documents\visual studio 2010\Projects\Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\obj\x86\Debug\Arduino_Remote_Control__Without_WIFI.Form1.resources
+C:\Users\Fayao-Family\documents\visual studio 2010\Projects\Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\obj\x86\Debug\Arduino_Remote_Control__Without_WIFI.Properties.Resources.resources
+C:\Users\Fayao-Family\documents\visual studio 2010\Projects\Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\obj\x86\Debug\Arduino_Remote_Control_ Without_WIFI.csproj.GenerateResource.Cache
+C:\Users\Fayao-Family\Documents\Visual Studio 2010\Projects\Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Fayao-Family\Documents\Visual Studio 2010\Projects\Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\bin\Debug\OpenTK.dll
+C:\Users\Fayao-Family\Documents\Visual Studio 2010\Projects\Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Fayao-Family\Documents\Visual Studio 2010\Projects\Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Fayao-Family\Documents\Visual Studio 2010\Projects\Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\bin\Debug\OpenTK.pdb
+C:\Users\Fayao-Family\Documents\Visual Studio 2010\Projects\Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\bin\Debug\OpenTK.xml
+C:\Users\Fayao-Family\Documents\Visual Studio 2010\Projects\Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\obj\x86\Debug\Arduino_Remote_Control_ Without_WIFI.csprojResolveAssemblyReference.cache
+F:\Backup Notebook 2018\Backup Documents PRINCIPAL\Visual Studio 2010\Projects\Csharp_Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\obj\x86\Debug\Arduino_Remote_Control_ Without_WIFI.exe
+F:\Backup Notebook 2018\Backup Documents PRINCIPAL\Visual Studio 2010\Projects\Csharp_Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\obj\x86\Debug\Arduino_Remote_Control_ Without_WIFI.pdb
+F:\Backup Notebook 2018\Backup Documents PRINCIPAL\Visual Studio 2010\Projects\Csharp_Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\bin\Debug\Arduino_Remote_Control_ Without_WIFI.exe
+F:\Backup Notebook 2018\Backup Documents PRINCIPAL\Visual Studio 2010\Projects\Csharp_Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\bin\Debug\Arduino_Remote_Control_ Without_WIFI.pdb
+F:\Backup Notebook 2018\Backup Documents PRINCIPAL\Visual Studio 2010\Projects\Csharp_Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\bin\Debug\HtmlAgilityPack.dll
+F:\Backup Notebook 2018\Backup Documents PRINCIPAL\Visual Studio 2010\Projects\Csharp_Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\bin\Debug\OpenTK.dll
+F:\Backup Notebook 2018\Backup Documents PRINCIPAL\Visual Studio 2010\Projects\Csharp_Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\bin\Debug\HtmlAgilityPack.pdb
+F:\Backup Notebook 2018\Backup Documents PRINCIPAL\Visual Studio 2010\Projects\Csharp_Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\bin\Debug\HtmlAgilityPack.xml
+F:\Backup Notebook 2018\Backup Documents PRINCIPAL\Visual Studio 2010\Projects\Csharp_Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\bin\Debug\OpenTK.pdb
+F:\Backup Notebook 2018\Backup Documents PRINCIPAL\Visual Studio 2010\Projects\Csharp_Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\bin\Debug\OpenTK.xml
+F:\Backup Notebook 2018\Backup Documents PRINCIPAL\Visual Studio 2010\Projects\Csharp_Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\obj\x86\Debug\Arduino_Remote_Control_ Without_WIFI.csprojResolveAssemblyReference.cache
+F:\Backup Notebook 2018\Backup Documents PRINCIPAL\Visual Studio 2010\Projects\Csharp_Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\obj\x86\Debug\Arduino_Remote_Control__Without_WIFI.Form1.resources
+F:\Backup Notebook 2018\Backup Documents PRINCIPAL\Visual Studio 2010\Projects\Csharp_Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\obj\x86\Debug\Arduino_Remote_Control__Without_WIFI.Properties.Resources.resources
+F:\Backup Notebook 2018\Backup Documents PRINCIPAL\Visual Studio 2010\Projects\Csharp_Arduino_Remote_Control_ Without_WIFI\Arduino_Remote_Control_ Without_WIFI\obj\x86\Debug\Arduino_Remote_Control_ Without_WIFI.csproj.GenerateResource.Cache

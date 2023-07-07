@@ -1,0 +1,204 @@
+﻿
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.IO.Ports;
+using System.IO;
+
+using HtmlAgilityPack;
+
+
+namespace Arduino_Remote_Control__Without_WIFI
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            string[] ports = SerialPort.GetPortNames();
+            comboBox1.DataSource = ports;
+           
+        }
+
+        private void btnconnect_Click(object sender, EventArgs e)
+        {
+
+            if (serialPort1.IsOpen == false)
+            {
+                try
+                {
+                    MessageBox.Show("Connected!",
+                          "Your device is connected.",
+      MessageBoxButtons.OK,
+      MessageBoxIcon.Information,
+      MessageBoxDefaultButton.Button1);
+                    
+
+                   
+                    serialPort1.PortName = comboBox1.Items[comboBox1.SelectedIndex].ToString();
+                    serialPort1.BaudRate = (9600);
+                    serialPort1.ReadTimeout = (2000);
+                    serialPort1.WriteTimeout = (2000);
+                    serialPort1.Open();
+                    timer1.Enabled = true;
+                    timer2.Enabled = true;
+
+
+                }
+                catch
+                {
+                    return;
+
+                }
+                if (serialPort1.IsOpen)
+                {
+                    
+                    btnconnect.Enabled = false;
+                    btnDisconnect.Enabled = true;
+                    comboBox1.Enabled = false;
+
+                }
+            }
+            else
+            {
+
+                try
+                {
+                    serialPort1.Close();
+                    btnconnect.Enabled = true;
+                    btnDisconnect.Enabled = false;
+                    comboBox1.Enabled = true;
+                   
+                }
+                catch
+                {
+                    return;
+                }
+
+            }
+
+
+
+
+
+
+        }
+
+
+
+
+
+
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            const string url = "https:///YOUR PHP WEB PAGE.php";
+            var web = new HtmlWeb();
+            var doc = web.Load(url);
+
+            try
+            {
+
+                foreach (HtmlNode node in doc.DocumentNode.SelectNodes("//text()[contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'hig')]"))
+                {
+
+                    label7.Text = node.InnerText;
+                    label8.Text = "Got a activate port message from web page!";
+                    if (label7.Text.Contains("hig 13"))
+                    {
+
+                        serialPort1.WriteLine("on");
+                    }
+
+                }
+            }
+            catch (Exception)
+            {
+                label8.Text = "no high data!";
+
+            }
+
+
+
+              
+
+            
+
+
+        }
+
+        private void timer2_Tick(object sender, EventArgs e)
+        {
+
+            const string url = "https://YOUR PHP WEB PAGE.php";
+            var web = new HtmlWeb();
+            var doc = web.Load(url);
+
+            try
+            {
+
+                foreach (HtmlNode node in doc.DocumentNode.SelectNodes("//text()[contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'low')]"))
+                {
+
+                    label7.Text = node.InnerText;
+                    label8.Text = "Got a deactivate port message from web page!";
+                    if (label7.Text.Contains("low 13"))
+                    {
+
+                        serialPort1.WriteLine("off");
+                    }
+
+                }
+            }
+            catch (Exception)
+            {
+                label8.Text = "no high data!";
+
+            }
+
+
+
+              
+
+
+        }
+
+        private void btnDisconnect_Click(object sender, EventArgs e)
+        {
+            serialPort1.Close();
+            comboBox1.Enabled = true;
+            btnDisconnect.Enabled = false;
+            btnconnect.Enabled = true;
+        }
+
+        private void btnteste_Click(object sender, EventArgs e)
+        {
+
+            
+
+            
+                
+        }
+
+        
+
+
+
+
+        
+
+
+
+
+    }
+}
