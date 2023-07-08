@@ -3,9 +3,9 @@
 ?>
 
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en-US">
     <head>
-        <title>Acesso</title>
+        <title>Access</title>
         <meta charset="utf-8">
 		<content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -146,10 +146,10 @@ html, body {
 
   <form name = "f1" class="form form--login framed" method="POST" action = "logincode"  onsubmit = "return validation()" / >
     <input type="email" placeholder="E-mail"  name="meulogin" class="input input--top" />
-    <input type="password" placeholder="Senha" name="minhasenha" class="input" />
+    <input type="password" placeholder="Password" name="minhasenha" class="input" />
    
-  <input type="submit" value="Logar" class="input input--submit" /><br><br>
-<a href="./atualiza"> ---->Clique aqui e mude a senha </a>
+  <input type="submit" value="Login" class="input input--submit" /><br><br>
+<a href="./atualiza"> ---->Click here and change your password</a>
   </form>
   
  
