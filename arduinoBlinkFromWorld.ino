@@ -1,6 +1,6 @@
 
 String recebido ="";
-int ledPin = 13;
+int ledPin = 13;  // you can use other ports, but you will need change C# and PHP code
 
 
 void setup() {
@@ -28,4 +28,5 @@ if (recebido == "off") {
      digitalWrite(ledPin, LOW);;
   }
 
+}
 }
