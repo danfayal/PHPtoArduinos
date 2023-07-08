@@ -1,6 +1,6 @@
 
 String recebido ="";
-int ledPin = 13;  // you can use other ports, but you will need change C# and PHP code
+int ledPin = 13;  // you can use more ports, but you will need change C# and PHP code
 
 
 void setup() {
