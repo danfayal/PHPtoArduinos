@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en-US">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -48,19 +48,19 @@
 <form  id="form_id" method="post" name="myform" action="" >
 <div class="form-group">
     <label for="exampleInputPassword1" style="color:blue;">Your login</label>
-    <input type="text" class="form-control" name="myusername" id="exampleInputPassword" placeholder="Coloque o e-mail de usuário . . .">
+    <input type="text" class="form-control" name="myusername" id="exampleInputPassword" placeholder="Put here the username . . .">
   </div> 
  <div class="form-group">
     <label for="exampleInputPassword1" style="color:blue;">Old password</label>
-    <input type="password" class="form-control" name="old_pass" id="exampleInputPassword0" placeholder="Senha antiga . . .">
+    <input type="password" class="form-control" name="old_pass" id="exampleInputPassword0" placeholder="Old Password . . .">
   </div>
   <div class="form-group">
     <label for="exampleInputPassword1" style="color:blue;">New password</label>
-    <input type="password" class="form-control" name="new_pass" id="exampleInputPassword1" placeholder="Nova senha. . .">
+    <input type="password" class="form-control" name="new_pass" id="exampleInputPassword1" placeholder="New Password. . .">
   </div>
   <div class="form-group">
     <label for="exampleInputPassword1" style="color:blue;">Type the new password again</label>
-    <input type="password" class="form-control" name="re_pass" id="exampleInputPassword2" placeholder="Digite a nova senha outra vez. . .">
+    <input type="password" class="form-control" name="re_pass" id="exampleInputPassword2" placeholder="Type new password again. . .">
   </div>
   <button onclick="verifyPassword()" type="submit" name="re_password" class="btn btn-primary"  value = "clickMe"/> <i class="glyphicon glyphicon-save" /></i>Alterar Senha</button>
 </form>
